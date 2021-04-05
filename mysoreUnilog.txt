@@ -1,0 +1,13 @@
+#! /bin/bash
+
+echo "IP of the server"
+read ip
+
+ping $ip
+
+piprline{
+ agent any
+  stages {
+    stage ('clone'){
+     steps {
+       

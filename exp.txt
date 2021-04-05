@@ -1,0 +1,8 @@
+Profile	YOE	Mandatory Skills Required	Experience
+DevOps	5+	K8 cluster setup and which tools they have used	1.5 
+ 	 	K8 services	 1.5
+ 	 	K8 pod	 1.5
+ 	 	K8 deployment	 1.5
+ 	 	AWS	 2.5
+ 	 	Docker	 2.8
+ 	 	Github	3.5
